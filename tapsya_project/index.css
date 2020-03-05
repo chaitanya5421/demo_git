@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Glegoo);
+
+          body{
+            overflow-x: hidden;
+          }
+         img .logo{
+            height:100px;
+            width:200px;
+          }
+
+         body nav{
+            margin-bottom:0px;
+			
+          }
+
+          #myCarousel{
+            margin-bottom: 0%;
+          }
+		  
+		  #nav ul{
+			  margin-top:20px;
+		  }
+
+        
+
+          .director{
+            padding: 10px 20px;
+            font-size: 20px;
+            color:orangered;
+            font-size: 15px;
+            background-color: white;
+            border:none;
+          }
+
+          .aboutdirector large{
+            font-family: 'Open Sans', 'Helvetica', sans-serif;
+          font-size: 25px;
+          }
+
+         .aboutdirector small{
+            font-family: 'Open Sans', 'Helvetica', sans-serif;
+          font-size: 15px;
+          }
+
+          .aboutdirector p{
+            font-family: 'Open Sans', 'Helvetica', sans-serif;
+          font-size: 15px;
+          text-align: justify;
+          text-justify: inter-word;          }
+
+          .aboutdirector{
+            padding:30px;
+          }
+
+          /* nav .navbar navbar-default navbar{
+            margin-bottom:0px;
+          } */
+
+          navbar navbar-default navbar{
+            margin-bottom: 0px;
+          }
+          
+         #navbar ul .nav navbar-nav{
+            margin-top:15px;
+          }
+          .header{ 
+            padding: 30px 0px;  
+           background: green; 
+           background-color: white;
+           position: fixed;
+           width: 100%;
+           z-index: 1;
+           }
+          
+          .header ul a{ 
+           padding: 0 20px; 
+           text-transform: uppercase;
+           color: darkblue;
+         }
+
+         .carousel-inner{
+             height:300px;
+         }
+
+         #myCarousel{
+             height: 400px;
+         }
+         /* .logo{
+             height:100px;
+             width:100%;
+         } */
